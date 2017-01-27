@@ -1,0 +1,11 @@
+#load "heapSort.cmo"
+open HeapSort
+
+#trace left
+#trace right
+#trace parent
+#trace heapify
+
+
+
+
