@@ -11,3 +11,5 @@ Where possible, important exercises and samples are also tackled.
 The first chapters are implemented, the intention is to implement all the algorithms in the textbook.
 
 Programming is art.
+
+Eray Ozkural, PhD
